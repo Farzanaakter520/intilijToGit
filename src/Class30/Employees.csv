@@ -1,0 +1,3 @@
+Employee{Name =John Doe, Id =300, Salary =50000.0}
+Employee{Name =Jane Smith, Id =300, Salary =25.0}
+Employee{Name =David Lee, Id =300, Salary =10000.0}
